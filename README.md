@@ -10,7 +10,6 @@ This is a project about recommendations within Portugal based on users input.
 - [Project goals](#goals)
 - [Structure](#structure)
 - [Deliverables](#deliverables)
-- [Resources](#resources)
 
 <a name="goals"></a>
 ## Project goals 
